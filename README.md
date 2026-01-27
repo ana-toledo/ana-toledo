@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá, meu nome é Ana Júlia! 
 
-<!--
-**ana-toledo/ana-toledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+- 🎓 Cursando Ciência da Computação na UFG - Universidade Federal de Goiás.
+- 🔭 Atualmente faço parte de uma iniciativa de pesquisa da AKCIT sobre ambientes digitais imersivos.
+- 🌱 Estudando **Análise e Ciência de Dados** como área de interesse, incluindo:.
+  - Análise exploratória de dados
+  - SQL, Power BI
+  - Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+  - Python, JavaScript, C++
+  - Git, Github, Gitlab
+
+### Onde me encontrar
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/ana-julia-toledo-19a6a1359/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:ana.toledo@proton.me)
