@@ -1,4 +1,5 @@
 ## Olá, meu nome é Ana Júlia! 
+![cat](background.gif)
 
 ### Sobre mim
 
