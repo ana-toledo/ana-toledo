@@ -11,7 +11,7 @@
   - Machine Learning
  
 ### Projetos
-Bem-vindo(a) a meu portfolio, onde eu mostro meus <a href="https://github.com/ana-toledo/Portfolio">projetos</a>.
+Bem-vindo(a) ao meu portfolio, onde eu mostro meus [projetos](https://github.com/ana-toledo/Portfolio).
 
 ### Skills
 
